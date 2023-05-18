@@ -4,7 +4,7 @@ Implementation of our paper entitled Evaluating Contour Segment Descriptors
 
 Machine Vision and Applications volume 28, pages373–391 (2017).
 
-<img src="./datasets/demo_rst/demo1_lines&pts.jpg" height="256">
+<img src="descriptors.png" height="500">
 
 ## Citation
 
